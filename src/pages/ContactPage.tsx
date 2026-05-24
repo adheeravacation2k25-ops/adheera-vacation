@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import logo from "../images/Adheera-logo.png";
 import { motion } from 'framer-motion';
 import { 
   MapPin, Phone, Mail, Clock, Send, Check,
@@ -172,7 +173,7 @@ export function ContactPage() {
                 <div className="bg-white dark:bg-gray-800 rounded-2xl p-4 shadow-lg border border-gray-100 dark:border-gray-700">
                   <div className="aspect-video bg-gray-100 dark:bg-gray-700 rounded-xl flex items-center justify-center w-full">
                     <img
-                      src="/src/images/Adheera-logo.png"
+                      src={logo}
                       alt="Adheera Vacation Logo"
                       className="w-full h-auto object-contain"
                     />
