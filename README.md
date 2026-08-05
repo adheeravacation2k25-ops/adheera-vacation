@@ -1,4 +1,4 @@
-# Aadhera Vacation - Premium Travel Website
+# Adheera Vacation - Premium Travel Website
 
 A fully responsive, modern, premium-looking travel agency website built with React + Tailwind CSS + Framer Motion.
 
